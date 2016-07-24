@@ -29,4 +29,4 @@ infosLiens();
 possede("saxophone", "bois"); // Doit afficher true
 possede("saxophone", "cuivre"); // Doit afficher false
 possede("trompette", "cuivre"); // Doit afficher true
-possede("contrebasse", "cordes"); // Doit afficher false
+possede("contrebasse", "cordes"); // Doit afficher une erreur
